@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669036209582",
+    "project_id": "aptechandroidproject",
+    "storage_bucket": "aptechandroidproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669036209582:android:ccbd3939690c0145f8943f",
+        "android_client_info": {
+          "package_name": "com.example.androidfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLVBMO8mKLyOK_6rkU_sXEq0WKpG5-QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
